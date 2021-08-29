@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FromMeToYou</label>
+	</settings>
+	<users>
+		<user>
+			<path>FromMeToYou.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FromMeToYou.jcp</path>
+		</project>
+	</projects>
+</workspace>

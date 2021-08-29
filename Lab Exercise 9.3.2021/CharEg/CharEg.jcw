@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CharEg</label>
+	</settings>
+	<users>
+		<user>
+			<path>CharEg.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CharEg.jcp</path>
+		</project>
+	</projects>
+</workspace>
