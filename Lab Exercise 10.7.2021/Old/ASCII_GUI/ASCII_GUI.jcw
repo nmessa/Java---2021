@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ASCII_GUI</label>
+	</settings>
+	<users>
+		<user>
+			<path>ASCII_GUI.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ASCII_GUI.jcp</path>
+		</project>
+	</projects>
+</workspace>
