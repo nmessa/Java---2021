@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CryptoTest</label>
+	</settings>
+	<users>
+		<user>
+			<path>CryptoTest.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CryptoTest.jcp</path>
+		</project>
+	</projects>
+</workspace>
