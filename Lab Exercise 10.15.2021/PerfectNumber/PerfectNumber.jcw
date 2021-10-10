@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PerfectNumber</label>
+	</settings>
+	<users>
+		<user>
+			<path>PerfectNumber.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PerfectNumber.jcp</path>
+		</project>
+	</projects>
+</workspace>

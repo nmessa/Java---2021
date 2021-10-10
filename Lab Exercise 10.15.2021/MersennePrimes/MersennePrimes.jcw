@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MersennePrimes</label>
+	</settings>
+	<users>
+		<user>
+			<path>MersennePrimes.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MersennePrimes.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FractionNonStatic</label>
+	</settings>
+	<users>
+		<user>
+			<path>FractionNonStatic.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FractionNonStatic.jcp</path>
+		</project>
+	</projects>
+</workspace>
