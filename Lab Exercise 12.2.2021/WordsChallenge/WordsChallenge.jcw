@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>WordsChallenge</label>
+	</settings>
+	<users>
+		<user>
+			<path>WordsChallenge.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>WordsChallenge.jcp</path>
+		</project>
+	</projects>
+</workspace>
