@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RecursiveFact</label>
+	</settings>
+	<users>
+		<user>
+			<path>RecursiveFact.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RecursiveFact.jcp</path>
+		</project>
+	</projects>
+</workspace>
