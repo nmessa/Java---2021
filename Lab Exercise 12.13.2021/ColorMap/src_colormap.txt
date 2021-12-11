@@ -1,0 +1,2 @@
+"H:\\SST\\2021 - 2022 Courses\\Java\\MyJava\\Lab Exercise 12.13.2021\\ColorMap\\src\\ColorMap.java"
+"H:\\SST\\2021 - 2022 Courses\\Java\\MyJava\\Lab Exercise 12.13.2021\\ColorMap\\src\\MyColor.java"
