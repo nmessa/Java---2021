@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ColoredCircles</label>
+	</settings>
+	<users>
+		<user>
+			<path>ColoredCircles.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ColoredCircles.jcp</path>
+		</project>
+	</projects>
+</workspace>
