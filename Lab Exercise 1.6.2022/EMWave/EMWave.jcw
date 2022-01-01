@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EMWave</label>
+	</settings>
+	<users>
+		<user>
+			<path>EMWave.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EMWave.jcp</path>
+		</project>
+	</projects>
+</workspace>

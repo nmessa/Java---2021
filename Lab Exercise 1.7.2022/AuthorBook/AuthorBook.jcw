@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>AuthorBook</label>
+	</settings>
+	<users>
+		<user>
+			<path>AuthorBook.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AuthorBook.jcp</path>
+		</project>
+	</projects>
+</workspace>
