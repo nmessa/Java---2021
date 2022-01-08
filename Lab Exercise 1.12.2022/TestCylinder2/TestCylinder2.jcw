@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TestCylinder2</label>
+	</settings>
+	<users>
+		<user>
+			<path>TestCylinder2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TestCylinder2.jcp</path>
+		</project>
+	</projects>
+</workspace>

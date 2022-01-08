@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TestCircle</label>
+	</settings>
+	<users>
+		<user>
+			<path>TestCircle.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TestCircle.jcp</path>
+		</project>
+	</projects>
+</workspace>
